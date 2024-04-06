@@ -1,11 +1,15 @@
 
+import Landing from "./Component/Landing"
+import Navbar from "./Component/Navbar"
+
 function App() {
 
 
   return (
-    <>
-      <h1>Ayushi Mehta Portfolio</h1>
-    </>
+    <div className="bg-[#eaeaea] w-full border-2 border-red-300">
+          <Navbar></Navbar>
+          <Landing></Landing>
+    </div>
   )
 }
 
