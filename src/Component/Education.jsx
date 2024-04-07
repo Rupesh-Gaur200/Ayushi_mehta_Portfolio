@@ -24,7 +24,7 @@ function Education (){
 
 
     return (
-        <div className="px-20 py-16 flex gap-10 ">
+        <div className="px-20 py-20 flex gap-10 ">
              <div className=" w-[100%] h-full flex flex-col gap-[12px]">
              <h1 className="font-bold text-6xl text-[#f03939]">Education</h1>
 

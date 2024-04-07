@@ -5,6 +5,7 @@ import Exp from "./Component/Exp"
 import Landing from "./Component/Landing"
 import LeftBottomitem from "./Component/LeftBottomitem"
 import Navbar from "./Component/Navbar"
+import Project from "./Component/Project"
 import RightSidehead from "./Component/RightSidehead"
 
 function App() {
@@ -23,9 +24,12 @@ function App() {
             </div>
             
             <Landing></Landing>
-
-            <Education></Education>
             <Exp></Exp>
+            
+            <Project></Project>
+            <Education></Education>
+           
+           
             {/* <Achievement></Achievement> */}
            
          
