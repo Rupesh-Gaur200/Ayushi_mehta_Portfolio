@@ -1,4 +1,5 @@
 
+import Education from "./Component/Education"
 import Landing from "./Component/Landing"
 import LeftBottomitem from "./Component/LeftBottomitem"
 import Navbar from "./Component/Navbar"
@@ -20,6 +21,8 @@ function App() {
             </div>
             
             <Landing></Landing>
+
+            <Education></Education>
            
          
     </div>
