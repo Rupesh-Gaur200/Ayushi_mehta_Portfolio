@@ -3,23 +3,18 @@
 function Education (){
 
         const educationData=[{
-            date:"Oct 2020-Present",
+            date:"Oct 2020 -June 2024",
             course:"Bachelor of Technology in Computer Science &amp; Engineering",
             Institute:"Lovely Professional University",
 
         },
     
         {
-            date:"Oct 2020-Present",
-            course:"Bachelor of Technology in Computer Science &amp; Engineering",
-            Institute:"Lovely Professional University",
+            date:"Apr2019 – Mar 202",
+            course:"Intermediate",
+            Institute:"Sophia Sr. Sec. School, Rajasthan",
 
-        },{
-            date:"Oct 2020-Present",
-            course:"Bachelor of Technology in Computer Science &amp; Engineering",
-            Institute:"Lovely Professional University",
-
-        }
+        },
     
     
     
@@ -40,7 +35,7 @@ function Education (){
                         
                 <div key={index} className="bg-[#f38a8a]  flex gap-4 h-[100px] items-center pl-5 rounded-xl" >
 
-                <div className="bg-[#f03939] rounded-full flex items-center h-[65%] ">
+                <div className="bg-[#f03939] rounded-lg flex items-center h-[65%] px-3 ">
                    <img className="" src="https://yashi-gupta.netlify.app/static/media/eduImgBlack.8ee2e691.svg"></img>
 
                 </div>

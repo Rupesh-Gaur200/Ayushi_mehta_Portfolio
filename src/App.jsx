@@ -1,5 +1,7 @@
 
+import Achievement from "./Component/Achievement"
 import Education from "./Component/Education"
+import Exp from "./Component/Exp"
 import Landing from "./Component/Landing"
 import LeftBottomitem from "./Component/LeftBottomitem"
 import Navbar from "./Component/Navbar"
@@ -23,6 +25,8 @@ function App() {
             <Landing></Landing>
 
             <Education></Education>
+            <Exp></Exp>
+            {/* <Achievement></Achievement> */}
            
          
     </div>
