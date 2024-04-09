@@ -30,7 +30,7 @@ function App() {
             <Education></Education>
            
            
-            {/* <Achievement></Achievement> */}
+             <Achievement></Achievement> 
            
          
     </div>
