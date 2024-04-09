@@ -14,9 +14,7 @@ function Exp(){
         Organ:"Synopsis",
 
     },
-    
-
-
+   
 
 
 ]
