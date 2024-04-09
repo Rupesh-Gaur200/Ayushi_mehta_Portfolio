@@ -1,5 +1,6 @@
 
 import Achievement from "./Component/Achievement"
+import Contact from "./Component/Contact"
 import Education from "./Component/Education"
 import Exp from "./Component/Exp"
 import Landing from "./Component/Landing"
@@ -32,7 +33,8 @@ function App() {
            
              <Achievement></Achievement> 
            
-         
+             <Contact></Contact>
+          
     </div>
     </div>
   )
