@@ -34,11 +34,11 @@ return (
        <div className="w-[55%] flex flex-col gap-10 ">
 
         <div className="W-full">
-            <h1 className="text-6xl text-[#f03939]">Achievements</h1>
+            <h1 className="text-6xl text-[#f03939] font-bold">Achievements</h1>
 
         </div>
 
-         <div className="w-[74%] h-[80%] text-2xl italic text-wrap  leading-48 ">
+         <div className="w-[74%] h-[80%] text-2xl italic text-wrap  leading-48 ml-5 ">
             <p>Putting quantified achievements on a resume is great, but I just don’t work with hard numbers. I have no data to support the quality of my work. If you have lots of relevant experience, the heading statement of your resume will be a summary.</p>
          </div>
 
