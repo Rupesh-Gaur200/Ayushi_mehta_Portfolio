@@ -42,7 +42,7 @@ function Project(){
                 {proData.map((item,index)=>{
                     return(
                     
-                        <div className="px-2 py-2 w-[23%] h-[18%] flex  flex-col items-center border-2 border-red-500 gap-10 bg-[#dd4d4d] rounded-lg">
+                        <div key={index} className="px-2 py-2 w-[23%] h-[18%] flex  flex-col items-center border-2 border-red-500 gap-10 bg-[#dd4d4d] rounded-lg">
                       <div className="mt-3">
                       <h2 className="color-['rgb(33, 33, 33)'] font-bold text-2xl">{item.name}</h2>
                         </div> 
