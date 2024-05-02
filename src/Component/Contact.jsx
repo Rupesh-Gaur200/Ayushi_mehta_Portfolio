@@ -113,7 +113,7 @@ const data2=[
 
         </div>
          <div className="mx-[45%] w-[20%] pb-4">
-         <h1 className="text-lg font-semibold">Made with <span className="color: rgb(240, 57, 57); margin: 0px 0.5rem -1rem;">❤</span> ayushi </h1>
+         <h1 className="text-lg font-semibold">Made with <span className="color: rgb(240, 57, 57); margin: 0px 0.5rem -1rem;">❤</span> Ayushi </h1>
      </div>
         </>
 

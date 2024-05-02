@@ -8,12 +8,16 @@ import LeftBottomitem from "./Component/LeftBottomitem"
 import Navbar from "./Component/Navbar"
 import Project from "./Component/Project"
 import RightSidehead from "./Component/RightSidehead"
+import LocomotiveScroll from 'locomotive-scroll';
+
+
 
 function App() {
 
+  const locomotiveScroll = new LocomotiveScroll();
 
   return (
-    <div>
+    <div data-scroll>
     <div className="bg-[#eaeaea] w-full ">
     
        <div className=" w-[35%] bg-red-500 h-screen ">
