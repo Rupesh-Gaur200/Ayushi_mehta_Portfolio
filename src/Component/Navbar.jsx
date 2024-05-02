@@ -25,7 +25,7 @@ function Navbar(){
                     width: '500px', // Custom width
                     background: '#eaeaea]', // Custom background color
                     color: '#000', 
-                    borderRadius: '0px 40px 40px 0px ',// Custom text color
+                    borderRadius: '0px 60px 60px 0px ',// Custom text color
                 },
             }}
           >
