@@ -32,7 +32,7 @@ function Project(){
      
       
     return (
-        <div className="px-20 py-20 ">
+        <div  className="px-20 py-20 ">
 
             <div className="flex justify-center">
                 <h1 className="text-6xl text-[#f03939] font-bold">Projects</h1>
